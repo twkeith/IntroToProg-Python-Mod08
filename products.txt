@@ -1,0 +1,7 @@
+cheese,6.99
+Tuna,1.5
+soup,3.5
+shoes,25.0
+orange,0.59
+toilet paper,12.0
+shrimp,4.5
